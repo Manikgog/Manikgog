@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently working on Java.
+Languages and tools:
+
+![image](https://github.com/user-attachments/assets/3e23949c-f490-4be0-8a71-b0efeac05438)
+![image](https://github.com/user-attachments/assets/880b64b2-51e3-4b2f-ba9a-f7c297e92a6b)
+![image](https://github.com/user-attachments/assets/583de6bc-01ad-432c-9a9c-93c80a977600)
+![image](https://github.com/user-attachments/assets/c8fddd10-318b-4e29-bc01-39b057ac69f8)
+![image](https://github.com/user-attachments/assets/b6b1d02a-0d2c-4a4f-95c0-a784228d2ac4)
+![image](https://github.com/user-attachments/assets/7a15218b-dea9-4db1-9a17-407dddf4106c)
+
