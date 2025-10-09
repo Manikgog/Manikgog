@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 I’m currently working on С++ and CMake.    
 ***Languages and tools:***
 
+![C++](https://github.com/user-attachments/assets/6761eca7-0800-4782-9660-e3a5a9df3579)
+![CMake](https://github.com/user-attachments/assets/c18aa536-de36-43f2-bd3f-d3c0013b26ad)
 ![java](https://github.com/user-attachments/assets/6761eca7-0800-4782-9660-e3a5a9df3579)
 ![spring](https://github.com/user-attachments/assets/c18aa536-de36-43f2-bd3f-d3c0013b26ad)
 ![postgresql](https://github.com/user-attachments/assets/0f3c6c91-3b11-44c2-ad28-bf49cebceec7)
