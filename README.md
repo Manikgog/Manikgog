@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently working on Java and Spring.    
+I’m currently working on С++ and CMake.    
 ***Languages and tools:***
 
 ![java](https://github.com/user-attachments/assets/6761eca7-0800-4782-9660-e3a5a9df3579)
